@@ -135,7 +135,7 @@ const EnterResult = () => {
       </div>
 
       <div
-        className="check-course bg-primary rounded p-3 text-white text-center mt-3 mb-3"
+        className="check-course bg-secondary rounded p-3 text-white text-center mt-3 mb-3"
         onClick={handleCheckCourse}
         style={{ cursor: 'pointer' }}
       >
