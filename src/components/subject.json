@@ -1,0 +1,614 @@
+[
+  {
+    "id": 62,
+    "name": "Agricultural Equipment Mechanics Works (Introduction)"
+  },
+  {
+    "id": 63,
+    "name": "Agricultural Equipment Mechanics Works (Tractor System)"
+  },
+  {
+    "id": 6,
+    "name": "Agriculture"
+  },
+  {
+    "id": 64,
+    "name": "Animal Husbandry"
+  },
+  {
+    "id": 65,
+    "name": "Appliance Maintenance And Repairs (Domestic And Of"
+  },
+  {
+    "id": 66,
+    "name": "Appliance Maintenance And Repairs (Electrical And"
+  },
+  {
+    "id": 67,
+    "name": "Applied Electricity"
+  },
+  {
+    "id": 68,
+    "name": "Applied Electricity And Automobile"
+  },
+  {
+    "id": 69,
+    "name": "Arabic"
+  },
+  {
+    "id": 70,
+    "name": "Arithmetic Process"
+  },
+  {
+    "id": 154,
+    "name": "Auto Body Repair and Spray Painting"
+  },
+  {
+    "id": 71,
+    "name": "Auto Electrical Works"
+  },
+  {
+    "id": 155,
+    "name": "Auto Mechanical Works"
+  },
+  {
+    "id": 57,
+    "name": "Auto Mechanics"
+  },
+  {
+    "id": 156,
+    "name": "Auto Parts Merchandising"
+  },
+  {
+    "id": 72,
+    "name": "Automobile Electrical Works"
+  },
+  {
+    "id": 50,
+    "name": "Basic Electricity"
+  },
+  {
+    "id": 56,
+    "name": "Basic Electronics"
+  },
+  {
+    "id": 34,
+    "name": "Basic Science"
+  },
+  {
+    "id": 31,
+    "name": "Basic Technology"
+  },
+  {
+    "id": 73,
+    "name": "Basketry"
+  },
+  {
+    "id": 7,
+    "name": "Biology"
+  },
+  {
+    "id": 74,
+    "name": "Blocklaying, Bricklaying And Concreting"
+  },
+  {
+    "id": 53,
+    "name": "Book Keeping"
+  },
+  {
+    "id": 75,
+    "name": "Building Construction"
+  },
+  {
+    "id": 76,
+    "name": "Building/Engineering Drawing"
+  },
+  {
+    "id": 77,
+    "name": "Business Management"
+  },
+  {
+    "id": 44,
+    "name": "Business Method"
+  },
+  {
+    "id": 28,
+    "name": "Business Studies"
+  },
+  {
+    "id": 78,
+    "name": "Carpentry And Joinery"
+  },
+  {
+    "id": 42,
+    "name": "Catering Craft"
+  },
+  {
+    "id": 79,
+    "name": "Ceramics"
+  },
+  {
+    "id": 80,
+    "name": "Ceramics (Ceramics Design)"
+  },
+  {
+    "id": 5,
+    "name": "Chemistry"
+  },
+  {
+    "id": 13,
+    "name": "Christian Religious Knowledge"
+  },
+  {
+    "id": 19,
+    "name": "Civic Education"
+  },
+  {
+    "id": 83,
+    "name": "Clerical Office Duties"
+  },
+  {
+    "id": 84,
+    "name": "Clothing And Textile"
+  },
+  {
+    "id": 10,
+    "name": "Commerce"
+  },
+  {
+    "id": 23,
+    "name": "Computer"
+  },
+  {
+    "id": 85,
+    "name": "Computer Craft Studies"
+  },
+  {
+    "id": 86,
+    "name": "Cosmetology"
+  },
+  {
+    "id": 24,
+    "name": "Creative and Cultural Art"
+  },
+  {
+    "id": 87,
+    "name": "Crop Husbandry And Horticulture"
+  },
+  {
+    "id": 38,
+    "name": "Data Processing"
+  },
+  {
+    "id": 88,
+    "name": "Draughtsmanship Craft Practice (Draughtsmanship)"
+  },
+  {
+    "id": 162,
+    "name": "Drawing & Design"
+  },
+  {
+    "id": 14,
+    "name": "Dyeing and Bleaching"
+  },
+  {
+    "id": 8,
+    "name": "Economics"
+  },
+  {
+    "id": 166,
+    "name": "Electrical Installation & Repair Works"
+  },
+  {
+    "id": 89,
+    "name": "Electrical Installation And Maintenance Work"
+  },
+  {
+    "id": 90,
+    "name": "Electronics"
+  },
+  {
+    "id": 91,
+    "name": "Electronics Works"
+  },
+  {
+    "id": 92,
+    "name": "Engineering Science"
+  },
+  {
+    "id": 1,
+    "name": "English Language"
+  },
+  {
+    "id": 153,
+    "name": "Entrepreneurship Education"
+  },
+  {
+    "id": 93,
+    "name": "Fabrication And Welding"
+  },
+  {
+    "id": 150,
+    "name": "Financial Accounting"
+  },
+  {
+    "id": 37,
+    "name": "Fine Arts"
+  },
+  {
+    "id": 94,
+    "name": "Fisheries"
+  },
+  {
+    "id": 95,
+    "name": "Fitting Drilling And Grinding"
+  },
+  {
+    "id": 9,
+    "name": "Food and Nutrition"
+  },
+  {
+    "id": 96,
+    "name": "Forestry"
+  },
+  {
+    "id": 97,
+    "name": "Foundry Craft Practice"
+  },
+  {
+    "id": 21,
+    "name": "French"
+  },
+  {
+    "id": 98,
+    "name": "Furniture Making"
+  },
+  {
+    "id": 52,
+    "name": "Further Mathematics"
+  },
+  {
+    "id": 146,
+    "name": "Garment Making"
+  },
+  {
+    "id": 99,
+    "name": "General Metal Work"
+  },
+  {
+    "id": 32,
+    "name": "General Paper"
+  },
+  {
+    "id": 100,
+    "name": "General Wood Work"
+  },
+  {
+    "id": 40,
+    "name": "Geography"
+  },
+  {
+    "id": 11,
+    "name": "Government"
+  },
+  {
+    "id": 101,
+    "name": "Graphic Art (Graphic Design)"
+  },
+  {
+    "id": 102,
+    "name": "Graphic Design"
+  },
+  {
+    "id": 157,
+    "name": "GSM Phone Maintenance and Repairs"
+  },
+  {
+    "id": 61,
+    "name": "Hausa Language"
+  },
+  {
+    "id": 54,
+    "name": "Health Science"
+  },
+  {
+    "id": 47,
+    "name": "History"
+  },
+  {
+    "id": 22,
+    "name": "Home Economics"
+  },
+  {
+    "id": 59,
+    "name": "Home Management"
+  },
+  {
+    "id": 20,
+    "name": "Igbo Language"
+  },
+  {
+    "id": 164,
+    "name": "Implements & Machines"
+  },
+  {
+    "id": 105,
+    "name": "Information Communication Technology (ICT)"
+  },
+  {
+    "id": 106,
+    "name": "Instrument Mechanics Works"
+  },
+  {
+    "id": 12,
+    "name": "Insurance"
+  },
+  {
+    "id": 18,
+    "name": "Integrated Science"
+  },
+  {
+    "id": 25,
+    "name": "Intro Technology"
+  },
+  {
+    "id": 163,
+    "name": "Introduction to Agricultural Science "
+  },
+  {
+    "id": 107,
+    "name": "Introduction To Building Construction"
+  },
+  {
+    "id": 108,
+    "name": "Islamic Studies"
+  },
+  {
+    "id": 109,
+    "name": "Jewelry"
+  },
+  {
+    "id": 110,
+    "name": "Ladies Garment Making (Garment Construction And Fi"
+  },
+  {
+    "id": 147,
+    "name": "Leather Craft"
+  },
+  {
+    "id": 111,
+    "name": "Leather Trades (Footwear Manufacture)"
+  },
+  {
+    "id": 112,
+    "name": "Leather Trades (Leather Goods Manufacture)"
+  },
+  {
+    "id": 113,
+    "name": "Leather Trades (Leather Training)"
+  },
+  {
+    "id": 114,
+    "name": "Leatherwork"
+  },
+  {
+    "id": 115,
+    "name": "Light Vehicle Body Repair Works"
+  },
+  {
+    "id": 16,
+    "name": "Literature In English"
+  },
+  {
+    "id": 116,
+    "name": "Machining Wood Working"
+  },
+  {
+    "id": 117,
+    "name": "Management In-Living"
+  },
+  {
+    "id": 118,
+    "name": "Marine Engineering Craft"
+  },
+  {
+    "id": 119,
+    "name": "Marine Engineering Craft Practice"
+  },
+  {
+    "id": 149,
+    "name": "Marketing"
+  },
+  {
+    "id": 2,
+    "name": "Mathematics"
+  },
+  {
+    "id": 120,
+    "name": "Mechanical Engineering Craft Practice"
+  },
+  {
+    "id": 121,
+    "name": "Medical Engineering Craft Practice"
+  },
+  {
+    "id": 122,
+    "name": "Men'S Garment Making (Garment Construction And Fin"
+  },
+  {
+    "id": 148,
+    "name": "Metal Craft"
+  },
+  {
+    "id": 58,
+    "name": "Metal Work"
+  },
+  {
+    "id": 158,
+    "name": "Mining"
+  },
+  {
+    "id": 43,
+    "name": "Moral Instruction"
+  },
+  {
+    "id": 123,
+    "name": "Motor Vehicle Mechanics Work"
+  },
+  {
+    "id": 26,
+    "name": "Music"
+  },
+  {
+    "id": 46,
+    "name": "Office Practice"
+  },
+  {
+    "id": 41,
+    "name": "Painting and Decoration"
+  },
+  {
+    "id": 124,
+    "name": "Photographic Practice"
+  },
+  {
+    "id": 36,
+    "name": "Physical and Health Education"
+  },
+  {
+    "id": 125,
+    "name": "Physical Education"
+  },
+  {
+    "id": 4,
+    "name": "Physics"
+  },
+  {
+    "id": 126,
+    "name": "Picture Making"
+  },
+  {
+    "id": 127,
+    "name": "Plumbing And Pipe Fitting"
+  },
+  {
+    "id": 128,
+    "name": "Practical Teaching"
+  },
+  {
+    "id": 129,
+    "name": "Principles & Practice Of Education"
+  },
+  {
+    "id": 15,
+    "name": "Principles of Accounts"
+  },
+  {
+    "id": 131,
+    "name": "Printing Craft Practice"
+  },
+  {
+    "id": 159,
+    "name": "Radio, Television and Electronics Works"
+  },
+  {
+    "id": 132,
+    "name": "Refrigeration And Air-Conditioning"
+  },
+  {
+    "id": 133,
+    "name": "Salesmanship"
+  },
+  {
+    "id": 134,
+    "name": "Sculpture"
+  },
+  {
+    "id": 135,
+    "name": "Secretarial Studies"
+  },
+  {
+    "id": 136,
+    "name": "Ship Craft Practice"
+  },
+  {
+    "id": 49,
+    "name": "Shorthand"
+  },
+  {
+    "id": 27,
+    "name": "Social Studies"
+  },
+  {
+    "id": 167,
+    "name": "Statistics"
+  },
+  {
+    "id": 151,
+    "name": "Store Keeping"
+  },
+  {
+    "id": 152,
+    "name": "Store Management"
+  },
+  {
+    "id": 51,
+    "name": "Technical Drawing"
+  },
+  {
+    "id": 137,
+    "name": "Textile Trade (Bleaching, Dyeing And Finishing)"
+  },
+  {
+    "id": 138,
+    "name": "Textile Trade (Spinning)"
+  },
+  {
+    "id": 139,
+    "name": "Textile Trade (Weaving)"
+  },
+  {
+    "id": 140,
+    "name": "Textile Trades (Surface Design And Textile Printing)"
+  },
+  {
+    "id": 141,
+    "name": "Textiles"
+  },
+  {
+    "id": 142,
+    "name": "Tourism"
+  },
+  {
+    "id": 165,
+    "name": "Tractor System "
+  },
+  {
+    "id": 143,
+    "name": "Turning Milling And Shaping"
+  },
+  {
+    "id": 48,
+    "name": "Typewriting"
+  },
+  {
+    "id": 144,
+    "name": "Vehicle Body Building"
+  },
+  {
+    "id": 145,
+    "name": "Visual Art"
+  },
+  {
+    "id": 160,
+    "name": "Welding and Fabrication Engineering Craft Practice"
+  },
+  {
+    "id": 55,
+    "name": "Wood Work"
+  },
+  {
+    "id": 60,
+    "name": "Yoruba Language"
+  }
+]

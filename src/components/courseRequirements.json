@@ -1,0 +1,687 @@
+[
+  {
+    "id": 1,
+    "course": "Accountancy",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics"],
+      "one_of": [
+        "Economics",
+        "Commerce",
+        "Principles of Accounts/Book keeping"
+      ],
+      "two_of": [
+        "Geography",
+        "Government",
+        "Civic Education",
+        "Agric. Science",
+        "Animal Husbandry",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Data Processing",
+        "ICT",
+        "Computer Studies",
+        "Insurance",
+        "Economics",
+        "Commerce",
+        "Principles of Accounts",
+        "Book keeping",
+        "Entrepreneurship Education"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "course": "Business Administration & Management",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics"],
+      "one_of": [
+        "Economics",
+        "Commerce",
+        "Principles of Accounts/Book keeping"
+      ],
+      "two_of": [
+        "Biology",
+        "Agric. Sc.",
+        "Physics",
+        "Animal Husbandry",
+        "Chemistry",
+        "ICT",
+        "Data Processing",
+        "Computer Studies",
+        "History",
+        "Government",
+        "Civic Education",
+        "Geography",
+        "Marketing",
+        "Economics",
+        "Commerce",
+        "Principles of Accounts",
+        "Book keeping",
+        "Literature-in-English",
+        "Business Method",
+        "Business Studies",
+        "Office Practice",
+        "Store Keeping",
+        "Store Management",
+        "Entrepreneurship Education",
+        "Social Studies",
+        "Insurance"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "course": "Banking & Finance",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics"],
+      "one_of": [
+        "Economics",
+        "Commerce",
+        "Principles of Accounts/Book Keeping"
+      ],
+      "two_of": [
+        "Geography",
+        "Government/Civic Education",
+        "Biology",
+        "Agricultural Science",
+        "Animal Husbandry",
+        "Physics",
+        "Chemistry",
+        "Computer Studies/Data Processing/ICT",
+        "Insurance",
+        "Economics",
+        "Commerce",
+        "Principles of Accounts/Book Keeping",
+        "Entrepreneurship Education"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "course": "Library and Information Science",
+    "course_requirements": {
+      "mandatory": ["English", "Mathematics"],
+      "any_other": 3
+    }
+  },
+  {
+    "id": 5,
+    "course": "Mass Communication",
+    "course_requirements": {
+      "mandatory": ["English", "Mathematics", "Literature in English"],
+      "two_of": [
+        "Government",
+        "Civic Education",
+        "History",
+        "Economics",
+        "Commerce",
+        "Biology",
+        "Agric. Science",
+        "Animal Husbandry",
+        "Physics",
+        "Chemistry",
+        "CRS",
+        "IRS",
+        "Entrepreneurship Education",
+        "Nigerian Language"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "course": "Marketing",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics"],
+      "one_of": ["Economics/Commerce", "Principles of Accounts/Book keeping"],
+      "two_of": [
+        "Biology",
+        "Agric. Sc.",
+        "Physics",
+        "Animal Husbandry",
+        "Chemistry",
+        "ICT",
+        "Data Processing",
+        "Computer Studies",
+        "History",
+        "Government",
+        "Civic Education",
+        "Geography",
+        "Marketing",
+        "Economics/Commerce",
+        "Principles of Accounts/Book keeping",
+        "Literature-in-English",
+        "Store Keeping",
+        "Store Management",
+        "Business Method",
+        "Business Studies",
+        "Office Practice",
+        "Entrepreneurship Education",
+        "Social Studies",
+        "Insurance"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "course": "Office Technology and Management",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics"],
+      "any_other": 3
+    }
+  },
+  {
+    "id": 8,
+    "course": "Procurement and Supply Chain Management",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics"],
+      "one_of": [
+        "Economics",
+        "Commerce",
+        "Principles of Accounts/Book keeping",
+        "Financial Accounting",
+        "Store Keeping",
+        "Store Management"
+      ],
+      "two_of": [
+        "Geography",
+        "History/Government/Civic Education",
+        "Biology",
+        "Agricultural Science",
+        "Animal Husbandry",
+        "Physics",
+        "Chemistry",
+        "Computer Studies/Data Processing/ICT",
+        "Economics",
+        "Commerce",
+        "Principles of Accounts/Book keeping",
+        "Marketing/Business Methods",
+        "Office Practice",
+        "Insurance",
+        "Entrepreneurship Education",
+        "Salesmanship"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "course": "Public Administration",
+    "course_requirements": {
+      "mandatory": ["English", "Mathematics", "Economic/Commerce"],
+      "one_of": ["Government/History/Civic Education"],
+      "any_other": 1
+    }
+  },
+  {
+    "id": 10,
+    "course": "Taxation",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics"],
+      "three_of": [
+        "Economics",
+        "Commerce/Marketing",
+        "Geography",
+        "History/Government/Civic Education",
+        "Agric. Science",
+        "Animal Husbandry",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Data Processing/ICT/Computer Studies",
+        "Insurance",
+        "Principles of Accounts/Book keeping/Financial Accounting",
+        "Business Method/Business Studies",
+        "Social Studies/CRS/IRS",
+        "Entrepreneurship Education"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "course": "Architectural Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Physics", "Mathematics"],
+      "two_of": [
+        "Fine Art",
+        "Technical Drawing",
+        "Economics",
+        "Electrical Installation/Woodwork/Metal Work/Painting",
+        "Decoration",
+        "Carpentry & Joinery",
+        "Building Construction/Plumbing & Pipe Fitting/Block Laying",
+        "Geography",
+        "Data Processing/ICT/Computer Studies",
+        "Biology",
+        "Agricultural Science/Animal Husbandry",
+        "Chemistry",
+        "CRS/IRS",
+        "Music",
+        "History",
+        "Government/Civic Education",
+        "Literature-in-English"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "course": "Building Technology",
+    "course_requirements": {
+      "mandatory": ["Mathematics", "English Language"],
+      "two_of": [
+        "Physics",
+        "Chemistry",
+        "Biology/Agric. Science/Animal Husbandry"
+      ],
+      "one_of": [
+        "Economics",
+        "Principles of Accounts",
+        "Technical Drawing",
+        "Building Construction",
+        "Building Drawing",
+        "Woodwork/Metalwork/Carpentry & Joinery/Painting/Decoration/Plumbing & Pipe Fitting/Block Laying",
+        "Basic Surveying",
+        "Geography",
+        "Government/Civic Education",
+        "Commerce",
+        "Fine Art",
+        "Computer Studies/ICT/Data Processing",
+        "Further Mathematics",
+        "Draughtsmanship/Graphic Design"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "course": "Estate Management and Valuation",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Economics"],
+      "one_of": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Agric. Science",
+        "Animal Husbandry",
+        "Health Science"
+      ],
+      "one_of": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Agric. Science",
+        "Principles of Accounts/Book Keeping",
+        "Literature in English",
+        "Government/Civic Education",
+        "Commerce",
+        "Fine Arts",
+        "Basic Surveying",
+        "Further Mathematics",
+        "Geography",
+        "Technical Drawing",
+        "Woodwork"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "course": "Quantity Surveying",
+    "course_requirements": {
+      "mandatory": ["Mathematics", "Physics", "English Language"],
+      "two_of": [
+        "Chemistry",
+        "Economics",
+        "Government/Civic Education",
+        "Geography",
+        "Further Mathematics",
+        "Fine Art/Technical Drawing/Building Drawing",
+        "Biology/Agricultural Sc./Animal Husbandry",
+        "Woodwork",
+        "ICT/Data Processing/Computer Studies",
+        "Principles of Accounts/Book Keeping"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "course": "Surveying & GeoInformatics",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Physics"],
+      "two_of": [
+        "Further (Additional) Mathematics/Statistics",
+        "Elementary Land Surveying",
+        "Technical Drawing/Fine Art",
+        "Chemistry",
+        "Geography",
+        "Biology/Agricultural Science",
+        "Economics",
+        "Government/Civic Education",
+        "Data Processing/ICT/Computer Studies"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "course": "Urban & Regional Planning",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Geography/Economics"],
+      "one_of": [
+        "Biology/Agriculture Science/Animal Husbandry",
+        "Chemistry",
+        "Physics"
+      ],
+      "one_of": [
+        "Geography",
+        "Economics",
+        "Government/Civic Education",
+        "Technical Drawing/Building Drawing",
+        "Marketing",
+        "Fine Arts",
+        "Commerce",
+        "Data Processing/ICT/Computer Studies",
+        "Graphic Design",
+        "Basic Electronics/Building Construction/Woodwork/Painting and Decorating"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "course": "Agricultural and Bio-Environmental Engineering",
+    "two_of": [
+      "Statistics",
+      "Geography",
+      "Further Mathematics",
+      "Chemistry",
+      "Principle of Accounts/Book-keeping",
+      "Biology/Agric. Science/Animal Husbandry",
+      "Economics/Commerce",
+      "Government/Civic Education",
+      "ICT/Computer Studies/Data Processing",
+      "Fine Arts"
+    ]
+  },
+
+  {
+    "id": 18,
+    "course": "Chemical Engineering Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Physics", "Chemistry"],
+      "one_of": [
+        "Biology",
+        "Technical Drawing",
+        "Further Mathematics",
+        "Economics",
+        "Geography"
+      ],
+      "additional_requirements": "Applicants must possess Five O’level Credit passes in WASC/SSCE/NECO/NABTEB/NBC or GCE which must include English Language, Mathematics, Physics, Chemistry and any one (1) related trade subject."
+    }
+  },
+  {
+    "id": 19,
+    "course": "Agricultural Engineering Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Physics", "Chemistry"],
+      "two_of": [
+        "Geography",
+        "Biology",
+        "Further Mathematics",
+        "Economics",
+        "Technical Drawing",
+        "Computer Studies/ICT/Data Processing",
+        "Metal Work",
+        "Woodwork",
+        "Chemistry",
+        "Agricultural Science",
+        "Animal Husbandry",
+        "Statistics"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "course": "Electrical Engineering Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Physics", "Chemistry"],
+      "two_of": [
+        "Biology",
+        "Technical Drawing",
+        "Further Mathematics",
+        "Economics",
+        "Geography",
+        "ICT/Computer Studies/Data Processing",
+        "Radio/Television & Electrical Works",
+        "Electrical Installation & Maintenance Works",
+        "Instrument Mechanics",
+        "Basic Electronics",
+        "Basic Electricity"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "course": "Mechanical Engineering Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Physics", "Chemistry"],
+      "two_of": [
+        "Biology",
+        "Technical Drawing",
+        "Further Mathematics",
+        "Economics",
+        "Geography",
+        "ICT/Computer Studies/Data Processing",
+        "Auto Mechanics",
+        "Metal Work",
+        "Tractor Mechanics",
+        "Refrigeration and Air Conditioning"
+      ],
+      "additional_requirements": "Applicants with NABTEB-National Technical Certificate (NTC) must have a Credit Pass in the Mechanical Trade Areas."
+    }
+  },
+  {
+    "id": 22,
+    "course": "Mineral Resources Engineering Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Physics", "Chemistry"],
+      "two_of": [
+        "Geography",
+        "Economics",
+        "ICT/Data Processing/Computer Studies",
+        "Further Mathematics",
+        "Agricultural Science",
+        "Biology",
+        "Mining",
+        "Plumbing and Pipe Fitting/Welding and Fabrication",
+        "Engineering Craft Practice"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "course": "Civil Engineering Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Physics", "Chemistry"],
+      "two_of": [
+        "Geography",
+        "Biology",
+        "Economics",
+        "Further Mathematics",
+        "Technical Drawing/Building Construction/Woodwork/Metal Work",
+        "Statistics",
+        "Computer Studies/ICT/Data Processing"
+      ],
+      "additional_requirements": "Five O’level Credit passes in NABTEB National Technical Certificate (NTC) which must include English Language, Mathematics, Physics, Chemistry and any one (1) related trade subject."
+    }
+  },
+  {
+    "id": 24,
+    "course": "Electrical/Electronics Engineering Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Physics", "Chemistry"],
+      "two_of": [
+        "Biology",
+        "Technical Drawing",
+        "Further Mathematics",
+        "Economics",
+        "Geography",
+        "ICT/Computer Studies/Data Processing",
+        "Radio/Television & Electrical Works",
+        "Electrical Installation & Maintenance Works",
+        "Instrument Mechanics",
+        "Basic Electronics",
+        "Basic Electricity"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "course": "Building Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics"],
+      "two_of": [
+        "Physics",
+        "Chemistry",
+        "Biology/Agric. Science/Animal Husbandry"
+      ],
+      "one_of": [
+        "Economics",
+        "Principles of Accounts",
+        "Technical Drawing",
+        "Building Construction",
+        "Building Drawing",
+        "Woodwork /Metalwork/Carpentry & Joinery/Painting /Decoration /Plumbing & Pipe Fitting/ Block Laying",
+        "Basic Surveying",
+        "Geography",
+        "Government/Civic Education",
+        "Commerce"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "course": "Quantity Surveying",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Physics"],
+      "two_of": [
+        "Chemistry",
+        "Economics",
+        "Government/Civic Education",
+        "Geography",
+        "Further Mathematics",
+        "Fine Art/Technical Drawing/Building Drawing",
+        "Biology/Agricultural Sc./Animal Husbandry",
+        "Woodwork",
+        "ICT/Data Processing/Computer Studies",
+        "Principles of Accounts/Book Keeping"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "course": "Computer Science",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Physics"],
+      "two_of": [
+        "Chemistry",
+        "Agricultural Science/Biology/Animal Husbandry/Food & Nutrition",
+        "Statistics",
+        "Economics /Commerce",
+        "Technical Drawing",
+        "Additional/Further Mathematics",
+        "Geography",
+        "ICT/Computer Studies/Data Processing",
+        "Fine Arts"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "course": "Food Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Chemistry", "Physics"],
+      "one_of": [
+        "Biology",
+        "Food & Nutrition",
+        "Agricultural Science",
+        "Animal Husbandry"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "course": "Statistics",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics"],
+      "one_of": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Agric. Science",
+        "Animal Husbandry"
+      ],
+      "two_of": [
+        "Statistics",
+        "Geography",
+        "Further Mathematics",
+        "Chemistry",
+        "Principle of Accounts/Book-keeping",
+        "Physics",
+        "Biology/ Agric. Science/Animal Husbandry",
+        "Economics/Commerce",
+        "Government/Civic Education",
+        "Data Processing/ICT/Computer Studies"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "course": "Science Laboratory Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics"],
+      "two_of": ["Chemistry", "Physics"],
+      "one_of": ["Biology", "Agricultural Science", "Animal Husbandry"]
+    }
+  },
+  {
+    "id": 31,
+    "course": "Glass and Ceramic Technology",
+    "course_requirements": {
+      "mandatory": ["English Language", "Mathematics", "Chemistry"],
+      "two_of": [
+        "Physics",
+        "Geography",
+        "Technical Drawing",
+        "Fine Art",
+        "Wood-work",
+        "Further/Additional Mathematics",
+        "Metal-work",
+        "Biology",
+        "Agricultural Science",
+        "Animal Husbandry",
+        "Economics",
+        "Statistics",
+        "Data Processing/ICT/Computer Studies",
+        "Carpentry & Joinery",
+        "Civic Education/Government",
+        "Entrepreneurship Education"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "course": "Hospitality Management Technology",
+    "course_requirements": {
+      "mandatory": [
+        "English Language",
+        "Mathematics",
+        "Biology/Agricultural Science/Health Science"
+      ],
+      "two_of": [
+        "Physics",
+        "Chemistry",
+        "Economics",
+        "Food & Nutrition",
+        "Home Economics",
+        "Geography"
+      ],
+      "additional_requirements": "Applicants who have successfully completed the NBTE recognized pre-National Diploma (Science & Technology) course may be admitted into the programme. Such students must have a credit pass in Biology, Economics, English, and Mathematics at WASC, SSCE, GCE, NECO and/or NABTEB O’level before undertaking the course."
+    }
+  }
+]
