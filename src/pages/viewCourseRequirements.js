@@ -17,7 +17,7 @@ const ViewCourseRequirement = () => {
     <div className="container mt-4">
       <div className="row justify-content-center mb-4">
         <div className="col-12 col-md-5 mb-3">
-          <Link to="/enter-result" className="btn btn-primary btn-block">
+          <Link to="/enter-result" className="btn btn-secondary btn-block">
             Enter O'Level result to see available Course
           </Link>
         </div>
@@ -44,45 +44,56 @@ const ViewCourseRequirement = () => {
       </div>
       {courseDetails && (
         <div
-          className="bg-white "
-          style={{ maxHeight: '500px', overflow: 'auto' }}
+          className="card shadow-sm bg-light mb-4"
+          style={{ maxHeight: '500px', overflowY: 'auto' }}
         >
-          <h3>Subject Requirements for {selectedCourse}</h3>
-          <ul>
-            <li>Mandatory:</li>
-            <ul>
+          <div className="card-body mt-4">
+            <h3 className="card-title text-primary">
+              Subject Requirements for {selectedCourse}
+            </h3>
+            <hr />
+
+            <h5 className="text-secondary">Mandatory:</h5>
+            <ul className="list-group list-group-flush mb-3">
               {courseDetails.course_requirements.mandatory.map(
                 (subject, index) => (
-                  <li key={index}>{subject}</li>
+                  <li key={index} className="list-group-item">
+                    {subject}
+                  </li>
                 )
               )}
             </ul>
 
             {courseDetails.course_requirements.one_of && (
-              <div className="div">
-                <li>Choose one of:</li>
-                <ul>
+              <>
+                <h5 className="text-secondary">Choose one of:</h5>
+                <ul className="list-group list-group-flush mb-3">
                   {courseDetails.course_requirements.one_of.map(
                     (subject, index) => (
-                      <li key={index}>{subject}</li>
-                    )
-                  )}
-                </ul>{' '}
-              </div>
-            )}
-            {courseDetails.course_requirements.two_of && (
-              <div className="div">
-                <li>Choose two of:</li>
-                <ul>
-                  {courseDetails.course_requirements.two_of.map(
-                    (subject, index) => (
-                      <li key={index}>{subject}</li>
+                      <li key={index} className="list-group-item">
+                        {subject}
+                      </li>
                     )
                   )}
                 </ul>
-              </div>
+              </>
             )}
-          </ul>
+
+            {courseDetails.course_requirements.two_of && (
+              <>
+                <h5 className="text-secondary ">Choose two of:</h5>
+                <ul className="list-group list-group-flush">
+                  {courseDetails.course_requirements.two_of.map(
+                    (subject, index) => (
+                      <li key={index} className="list-group-item">
+                        {subject}
+                      </li>
+                    )
+                  )}
+                </ul>
+              </>
+            )}
+          </div>
         </div>
       )}
     </div>

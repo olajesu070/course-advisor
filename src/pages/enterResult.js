@@ -92,8 +92,15 @@ const EnterResult = () => {
       <div className="results-section">
         <h2 className="text-center mb-4">Enter O'Level Results</h2>
         {results?.map((result, index) => (
-          <div key={index} className="row mb-3">
-            <div className="col-12 col-sm-6 mb-2">
+          <div
+            key={index}
+            className="row mb-3"
+            style={{
+              display: 'flex',
+              flexDirection: 'row',
+            }}
+          >
+            <div className="col-6 mb-2">
               <select
                 className="form-select"
                 name="subject"
@@ -108,7 +115,7 @@ const EnterResult = () => {
                 ))}
               </select>
             </div>
-            <div className="col-12 col-sm-6 mb-2">
+            <div className=" col-6 mb-2">
               <select
                 className="form-select"
                 name="grade"
