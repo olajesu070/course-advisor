@@ -22,7 +22,7 @@ function App() {
     <div className="App">
       {!hideGlassEffect && (
         <header className="App-header">
-          <div className="glass-effect d-none d-sm-block">
+          <div className="glass-effect ">
             <h1>Welcome to Our Platform</h1>
             <div className="buttons">
               <Link to="/enter-result" className="button">
